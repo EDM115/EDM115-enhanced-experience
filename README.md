@@ -4,6 +4,21 @@
 
 ## With this modpack, you will have a real Vanilla+ experience, adding tons of new biomes, mobs, recipes, blocs, ...
 
+---
+
+# ⚠️ If you're here to play on my server, it's dead
+# The world file is available in the ([Releases](https://github.com/EDM115/EDM115-enhanced-experience/releases/latest))
+# Both in .rar format (extract everything in a new instance, `Minecraft 1.19 | Forge 41.1.0`) and in .mrpack format (use the Modrinth App and create a new instance from this file)
+
+## UUID List
+As the server allowed cracked clients, the UUID saved weren't the ones from the client but a random one from the server  
+As a consequence, if you wanna get back your inventory, look at the UUID you had just under, go in `saves/world/playerdata` and rename the according files with your current UUID
+- _EDM115 : `67FFC499-708F-33F3-9C7A-28E35DFB8B3A`
+- hero13260 : `0B6BA4F1-28DD-3B55-A633-592870E80D5F`
+- Katorin : `EE8527FB-D0DA-3C6B-8BB0-6269B7C3C203`
+- Launcher_tester : `F6777B43-7066-310B-A882-2A34539E0C02`
+
+---
   
 <u>Mods list :</u>
 
